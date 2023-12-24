@@ -1,11 +1,12 @@
 'use strict'
 
 module.exports = {
+  pathPrefix: '/chord',
   siteMetadata: {
     title: 'Chord',
     description: '',
     keywords: '',
-    siteUrl: 'https://lyokoo.github.io/chord',
+    siteUrl: 'https://lyokoo.github.io',
     author: {
       name: '',
       url: '',
@@ -61,7 +62,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://lyokoo.github.io/chord'
+        siteUrl: 'https://lyokoo.github.io'
       }
     },
     'gatsby-plugin-emotion',
