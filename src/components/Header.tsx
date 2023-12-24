@@ -36,7 +36,7 @@ export const Header = (props: { location: Location }) => {
               </CallToActionLink>
             )}
 
-            <Link className="nav-link" to="/news">
+            {/* <Link className="nav-link" to="/news">
               News
             </Link>
             <Link className="nav-link" to="/help">
@@ -44,7 +44,7 @@ export const Header = (props: { location: Location }) => {
             </Link>
             <Link className="nav-link" to="/about">
               About
-            </Link>
+            </Link> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>
