@@ -1,9 +1,9 @@
 {
-  "name": "chordpic",
-  "description": "create chord charts with ease",
+  "name": "chord",
+  "description": "create chord charts",
   "version": "1.0.0",
   "private": true,
-  "author": "Raphael Voellmy <r.voellmy@gmail.com>",
+  "author": "",
   "keywords": [
     "gatsby",
     "guitar",
