@@ -5,7 +5,7 @@ module.exports = {
     title: 'Chord',
     description: '',
     keywords: '',
-    siteUrl: 'https://lyokoo.github.io',
+    siteUrl: 'https://lyokoo.github.io/chord',
     author: {
       name: '',
       url: '',
@@ -61,7 +61,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://lyokoo.github.io'
+        siteUrl: 'https://lyokoo.github.io/chord'
       }
     },
     'gatsby-plugin-emotion',
